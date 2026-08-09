@@ -1,7 +1,7 @@
 # DIFERENCIA C vs PYTHON
 ## EXPERIMENTO NUMÉRICO
 
-
+---
 
 # EXPERIMENTO
 
@@ -38,7 +38,7 @@ Los resultados muestran una diferencia considerable entre ambas implementaciones
 4. Para este tipo de operaciones repetitivas e intensivas, C puede ofrecer un mejor rendimiento que Python, debido entre otras cosas a que C se compila directamente a código máquina, mientras que Python requiere un intérprete para ejecutar el código.
 5. Finalmente, el experimento permitió comprobar de manera práctica que la elección del lenguaje de programación puede tener un impacto significativo en el tiempo de ejecución y el consumo de memoria de un programa.
 
-
+---
 
 # CÓDIGO
 
@@ -123,7 +123,7 @@ Al final, se debe tener los siguientes archivos:
 - Gráfica: *grafica.py*
 <img width="659" height="529" alt="image" src="https://github.com/user-attachments/assets/a45b63b2-1b51-4357-ba0a-1330c0151d0c" />
 
-
+---
 
 #### Integrantes:
 - David Avendaño
