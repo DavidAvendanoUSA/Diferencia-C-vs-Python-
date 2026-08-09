@@ -2,6 +2,8 @@
 ## EXPERIMENTO NUMÉRICO
 
 :)
+
+Solo falta lo de explicar bubel sort que es GNU time y porque la diferencia de como se ejecuta GNU time en linux y mac y ya :)
 ## Contenido
 
 - experimento_c.c -> codigo en C
