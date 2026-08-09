@@ -5,7 +5,7 @@
 ## Contenido
 
 - experimento_c.c -> codigo en C
-- experimento_python.py -> odigo en Python
+- experimento_python.py -> codigo en Python
 - ejecutar.sh -> compila y corre todo y saca los datos
 - graficar.py -> hace la grafica con los resultados
 
