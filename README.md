@@ -22,6 +22,7 @@ Y genera una comparación visual con una gráfica de barras.
 
 - Gráfica:
 <img width="1344" height="646" alt="image" src="https://github.com/user-attachments/assets/74cbd442-9b21-4a66-8a38-b3e5494aec1c" />
+
 - Memoria y tiempo:
 <img width="729" height="473" alt="image" src="https://github.com/user-attachments/assets/5cbe677f-1fea-498b-b6de-883234f0f42f" />
 
